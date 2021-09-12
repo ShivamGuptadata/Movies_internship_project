@@ -1,5 +1,5 @@
 # Movies_internship_project
-![](https://github.com/ShivamGuptadata/Movies_internship_project/blob/main/imdb.jpg)
+![](https://github.com/ShivamGuptadata/Movies_internship_project/blob/main/extra/images.jpg)
 
 **The data is of IMDB 5000 Movie Dataset is in the CSV format and the name of the file is Movie_2BAssignment_2BData_(2).csv which contains all the information regarding the entire aspect of a movie.**
 
@@ -30,3 +30,7 @@ In this part, We analysis the data and solve the problems, get the conclusions
 4. Find **Populars Genres**
 5. Find the **Critic-favorite and Audience-favorite actors**
 6. Find the **Movie in Each Decade**
+
+# Movies with Highest profit
+
+![](https://github.com/ShivamGuptadata/Movies_internship_project/blob/main/extra/pic1.png)
