@@ -34,3 +34,19 @@ In this part, We analysis the data and solve the problems, get the conclusions
 # Movies with Highest profit
 
 ![](https://github.com/ShivamGuptadata/Movies_internship_project/blob/main/extra/pic1.png)
+
+![](https://github.com/ShivamGuptadata/Movies_internship_project/blob/main/extra/pic5.png)
+
+# Inference of Analysis
+From the analysis we come to the conclusion that Avatar and Titanic are the highest profitable movies in the world. Avatar is always the highest budget movie.
+We might spot two movies directed by James Cameron in the list.
+Maximum Profitable movies are low budget movies. 
+
+# Imdb Top Movies
+
+
+![](https://github.com/ShivamGuptadata/Movies_internship_project/blob/main/extra/pic2.png)
+
+
+![](https://github.com/ShivamGuptadata/Movies_internship_project/blob/main/extra/pic3.png)
+
