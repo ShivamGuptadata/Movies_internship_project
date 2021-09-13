@@ -58,13 +58,13 @@ From the analysis we come to the conclusion that **The Shawshank Redemption** is
 
 # Best Directors
 
-![](https://github.com/ShivamGuptadata/Movies_internship_project/blob/main/extra/pic6.png)
+![](https://github.com/ShivamGuptadata/Movies_internship_project/blob/main/extra/pic7.png)
 
 ![](https://github.com/ShivamGuptadata/Movies_internship_project/blob/main/extra/pic4.png)
 
 # Populars Genres
 
-![](https://github.com/ShivamGuptadata/Movies_internship_project/blob/main/extra/pic7.png)
+![](https://github.com/ShivamGuptadata/Movies_internship_project/blob/main/extra/pic6.png)
 
 # Critic-favorite and Audience-favorite actors
 
