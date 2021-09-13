@@ -38,8 +38,9 @@ In this part, We analysis the data and solve the problems, get the conclusions
 ![](https://github.com/ShivamGuptadata/Movies_internship_project/blob/main/extra/pic5.png)
 
 # Inference of Analysis
-From the analysis we come to the conclusion that Avatar and Titanic are the highest profitable movies in the world. Avatar is always the highest budget movie.
+From the analysis we come to the conclusion that **Avatar** and **Titanic** are the highest profitable movies in the world. Avatar is always the highest budget movie.
 We might spot two movies directed by James Cameron in the list.
+
 Maximum Profitable movies are low budget movies. 
 
 # Imdb Top Movies
@@ -50,3 +51,27 @@ Maximum Profitable movies are low budget movies.
 
 ![](https://github.com/ShivamGuptadata/Movies_internship_project/blob/main/extra/pic3.png)
 
+# Inference of Analysis
+From the analysis we come to the conclusion that **The Shawshank Redemption** is the highest imdb ranking movies. It means genres of crime, drama is geeting highest imdb ratings. Maximum pepole are like to watch crime and drama movies.
+
+**The Good, the Bad and the Ugly** movie is the highest ranking non English movies.
+
+# Best Directors
+
+![](https://github.com/ShivamGuptadata/Movies_internship_project/blob/main/extra/pic6.png)
+
+![](https://github.com/ShivamGuptadata/Movies_internship_project/blob/main/extra/pic4.png)
+
+# Populars Genres
+
+![](https://github.com/ShivamGuptadata/Movies_internship_project/blob/main/extra/pic7.png)
+
+# Critic-favorite and Audience-favorite actors
+
+![](https://github.com/ShivamGuptadata/Movies_internship_project/blob/main/extra/pic(10).png)
+
+# Movie in Each Decade
+
+![](https://github.com/ShivamGuptadata/Movies_internship_project/blob/main/extra/pic9.png)
+
+![](https://github.com/ShivamGuptadata/Movies_internship_project/blob/main/extra/pic8.png)
